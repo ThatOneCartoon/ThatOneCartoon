@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThatOneCartoon 
+- 👋 Hi, I’m Al1nuu
 - 👀 I’m interested in coding, new things, exploring, tech etc.
 - 🌱 I’m currently learning C++/a bit python and German.
 - 💞️ I’m looking to collaborate on I don't know :/
