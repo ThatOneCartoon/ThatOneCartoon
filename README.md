@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ThatOneCartoon (Romanian)
+- 👋 Hi, I’m @ThatOneCartoon 
 - 👀 I’m interested in coding, new things, exploring, tech etc.
 - 🌱 I’m currently learning C++/a bit python and German.
 - 💞️ I’m looking to collaborate on I don't know :/
 - 📫 How to reach me: alinpetz@gmail.com (discord: @thatonecartoon)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: There's no fun fact :D
 That's about all.
 <!---
